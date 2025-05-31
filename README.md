@@ -34,8 +34,6 @@ To explore professionals' experiences in managing work-life balance and identify
 - **Word Cloud** – Visualizing the most frequently occurring terms from the dataset.
  ![image](https://github.com/user-attachments/assets/12b5148d-22a7-4ed7-a8dc-4cdb29419821)
 
-
-
 ---
 
 ## 🔎 Key Findings
@@ -62,7 +60,6 @@ To explore professionals' experiences in managing work-life balance and identify
 - Organizations are encouraged to implement flexible work arrangements and stress management resources.
 - Professionals should consider time management techniques and setting clear boundaries to maintain balance.
 
----
 ---
 
 > Developed by **Hira Azmat (S23-BBD-023)** & **Haroon Ejaz (SP23-BBD-018)**  
