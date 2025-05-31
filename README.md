@@ -32,6 +32,7 @@ To explore professionals' experiences in managing work-life balance and identify
 
 **Visualization:**
 - **Word Cloud** – Visualizing the most frequently occurring terms from the dataset.
+  ![image](https://github.com/user-attachments/assets/0b3bb680-c417-45ed-b24f-6799d7cf6511)
 
 ---
 
@@ -46,4 +47,23 @@ To explore professionals' experiences in managing work-life balance and identify
 
 ---
 
-## 📁 Files Included
+## ⚠️ Limitations
+- The study focused on professionals from a single university setting, limiting its representation of the broader workforce.
+- The sample size was relatively small, affecting the generalizability of the findings.
+- Data was self-reported, which introduces potential bias as participants may underreport negative experiences or exaggerate positives.
+
+---
+
+## 📚 Future Research Directions & Implications
+- Future research should examine work-life balance across various industries and geographical regions for broader insights.
+- Long-term studies on the effectiveness of workplace policies and personal strategies would offer deeper understanding.
+- Organizations are encouraged to implement flexible work arrangements and stress management resources.
+- Professionals should consider time management techniques and setting clear boundaries to maintain balance.
+
+---
+---
+
+> Developed by **Hira Azmat (S23-BBD-023)** & **Haroon Ejaz (SP23-BBD-018)**  
+> Supervised by **Dr. Muhammadi Sabra Nadeem**  
+> 📅 Submitted on: December 24, 2024
+
