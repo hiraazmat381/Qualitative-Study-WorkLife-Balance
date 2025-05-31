@@ -32,7 +32,8 @@ To explore professionals' experiences in managing work-life balance and identify
 
 **Visualization:**
 - **Word Cloud** – Visualizing the most frequently occurring terms from the dataset.
-  ![image](https://github.com/user-attachments/assets/0b3bb680-c417-45ed-b24f-6799d7cf6511)
+  ![image](https://github.com/user-attachments/assets/924757ea-39f9-4be8-aba3-8603b06e5814)
+
 
 ---
 
